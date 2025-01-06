@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-glossary",
+	"name": "Obsidian Glossary",
+	"version": "0.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Create, manage, and view a glossary of terms and definitions in a dedicated interface.",
+	"author": "Ethan Phelps",
+	"authorUrl": "https://felpsey.com",
+	"isDesktopOnly": false
+}
